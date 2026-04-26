@@ -6,7 +6,6 @@
 - 将`Driver`文件夹复制到`C:\Program Files (x86)`目录下
 - 将`adb.exe`和`fastboot.exe`添加到系统环境变量PATH中
 - 提供图形界面，显示安装进度和日志
-- 包含版本信息和相关链接
 
 ## 系统要求
 
